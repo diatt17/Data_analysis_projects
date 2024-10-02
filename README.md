@@ -17,8 +17,9 @@ This project utilizes publicly available datasets that contain socioeconomic, en
 https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who 
 
 ## Key Steps
-Data Collection: Collect life expectancy and related socioeconomic and healthcare data from various sources.
-Data Cleaning: Handle missing values, inconsistent data types, and perform any necessary data transformation.
-Exploratory Data Analysis (EDA): Perform descriptive statistics and visualizations to understand trends, correlations, and outliers.
-Modeling: Use regression models (Random Forest) to identify the key factors influencing life expectancy.
-Conclusion & Insights: Summarize the findings, identify the strongest predictors of life expectancy, and provide policy recommendations.
+**Data Collection**: Collect life expectancy and related socioeconomic and healthcare data from various sources.
+
+**Data Cleaning**: Handle missing values, inconsistent data types, and perform any necessary data transformation.
+**Exploratory Data Analysis (EDA)**: Perform descriptive statistics and visualizations to understand trends, correlations, and outliers.
+**Modeling**: Use regression models (Random Forest) to identify the key factors influencing life expectancy.
+**Conclusion & Insights**: Summarize the findings, identify the strongest predictors of life expectancy, and provide policy recommendations.
